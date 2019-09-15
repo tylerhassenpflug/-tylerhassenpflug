@@ -1,21 +1,17 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Tyler C. Hassenpflug
+email: tyler.hassenpflug@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Software Engineer, Python, Project Management, Process Engineering, SCRUM, Startups, Agile, Javascript"
+skills: "Tufts University Engineering Graduate Student, Boston, MA"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
-    
+    url: https://www.linkedin.com/in/tyler.hassenpflug/
+
 # Google webmaster tools
 google_verify:
 
