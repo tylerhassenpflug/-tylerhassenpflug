@@ -471,3 +471,12 @@ header img.profile-img {
 header .intro-text .name {
     font-size: 2.25em;
 }
+
+.posts, .resume {
+  padding-top: 160px;
+  min-height: 800px;
+}
+
+.posts-list li {
+  list-style-type: none;
+}
