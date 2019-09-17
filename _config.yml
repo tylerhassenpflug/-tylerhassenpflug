@@ -1,5 +1,5 @@
 # Site settings
-name: Tyler C. Hassenpflug
+name: Tyler Hassenpflug
 email: tyler.hassenpflug@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Python, Project Management, Process Engineering, SCRUM, Startups, Agile, Javascript"
@@ -26,8 +26,10 @@ color:
   secondary-dark: 29455b
   section-tout: eaf1f1
 
-
-
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  projects:
+    output: true

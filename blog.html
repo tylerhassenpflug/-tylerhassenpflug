@@ -1,5 +1,30 @@
 ---
 permalink: /blog/
-layout: blog
+layout: default
 ---
-<h1>hello</h1>
+
+<section class="posts">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Posts</h2>
+        <hr />
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="posts-list">
+      {% for post in site.posts %}
+        <div class="row">
+          <div class="col-lg-12">
+            <h2><a href="{{ post.url }}" style="color: #285172;">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url }}" style="font-size:1.5em;">Read More &rarr;</a>
+          </div>
+          <br/>
+        </div>
+        <br/>
+      {% endfor %}
+    </div>
+  </div>
+</section>
