@@ -102,15 +102,9 @@ Include PDF resume in an easily accessible place for employers who are intereste
 
 ### Brand
 
-Describe what your brand-image is.
+I would like the users/visitors on my site to view me as a professional in the fields of biotech and infotech with both technical and managerial skill sets. Between my educational background and professional experience, I am to provide consulting knowledge the help serve the needs of the client.
 
-What image do you want your users/visitors to have of YOU? Why?
-
-I would like the users/visitors to my site view me as
-
-What are you hoping it will support (job? etc?)
-
-I am hoping this website will help me to obtain part time consulting projects in the fields of software engineering, process engineering, project management and business strategy.
+My goal is that this website will help me to obtain part time consulting projects in the fields of software engineering, process engineering, project management and business strategy.
 
 ### UX
 
