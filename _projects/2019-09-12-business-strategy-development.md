@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Business Strategy
-image_url: business-dev.jpg
+image_url: business.jpg
 ---
 
 A business strategy consultant helps business owners or organizational leaders with decision making in regards to their business strategy. They understand and can lead you through the processes that will help you determine who you are, where you want to go, how you will get there, and how you will measure success.
