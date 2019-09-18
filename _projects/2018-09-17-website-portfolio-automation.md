@@ -106,6 +106,8 @@ I would like the users/visitors on my site to view me as a professional in the f
 
 My goal is that this website will help me to obtain part time consulting projects in the fields of software engineering, process engineering, project management and business strategy.
 
+From visiting my website, the brand I am to provide is not only someone that is dependable on deliverables but also someone that fits company culture and easy to work with. 
+
 ### UX
 
 The actual website looks/feels (linking your design choices here to the first three items above (personae, flow, brand)
@@ -121,4 +123,4 @@ However, since I am not a senior software engineer, I needed to make some modifi
 
 ### Automation
 
-Comments were added to the static website via [Disqus](https://disqus.com/), which is a global comment system that improves discussion on websites and connects conversations across the web. Disqus offers the ability to automate directing new comments directly to your email as well as allowing to response via email and have the replies show up in the comment thread.
+Comments were added to the static website via [Disqus](https://disqus.com/), which is a global comment system that improves discussion on websites and connects conversations across the web. Disqus offers the ability to automate directing new comments directly to your email as well as allowing to response via email and have the replies show up in the comment thread. This type of automation is important to me because it will allow me to receive real time communication from recruiters and promptly respond to their messages through email on my laptop or my cell-phone if I am traveling and do not have access to a computer.  
