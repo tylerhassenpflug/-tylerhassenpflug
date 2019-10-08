@@ -18,9 +18,9 @@ they have a question about something, I Googled it.
 One way in which this can be used is in a police line-up or trying to identify
 a criminal from a survelance video.  
 
-![WheresWaldo](/img/WheresWaldo.jpg)
+![WheresWaldo](/img/WheresWaldo.jpeg)
 
 By using signal detection theory along with machine learning, authorities can
 more accurately determine the guilty perpetrator in a crime.  In recent studies,
 it was determined that eye-witnesses choosing criminals out of a line-up was
-only accurate 1/6 or approximately 17% of the time. 
+only accurate 1/6 or approximately 17% of the time.
