@@ -14,6 +14,8 @@ do with human insatiability or greed. The first principal or human genius he ref
 the type of work that we do. The second principal he refers to as "the never get enough" principal and it determines how many
 jobs there actually are.
 
+![automation](/img/automation.jpg)
+
 The primary message of his argument is that automation creates wealth by allowing us to do more work in less time. Where the catch is,
 is how we will use that wealth and if we will use it well. That is where we need to be concerned.  A current example of this when you
 compare the countries of Norway and Saudi Arabia.  Both of these countries are extremely wealthy due to oil.  The big difference
