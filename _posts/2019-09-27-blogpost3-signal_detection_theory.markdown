@@ -43,3 +43,5 @@ vs the probability of a false alarm.
 
 Using Signal Detection Theory allows us to get a better look at the data for real
 life issues like correctly identifying criminals.
+
+![police-lineup](/img/police-lineup.png)
