@@ -28,12 +28,16 @@ It really makes you think about how many issues there are with the criminal just
 system and how many "innocent" people have been convicted of crimes they didn't commit.
 By using Signal Detection Theory and machine learning, one study showed that
 the accuracy of correctly identifying criminals increased to nearly 80 percent.  
-While still not perfect, its a lot better than 17 percent. 
+While 80 percent still not perfect, its a lot better than 17 percent.
 
 The term Signal Detection Theory is slightly misleading.  It shouldn't be thought
 of as a theory that can be proven or disproven, but more so of a way to think
-about data.  However, because there are using four (4) different variables, it
-becomes difficult to visually represent the data collected.   
+about data.  However, because they're are using four (4) different variables,
+it becomes difficult to visually represent the data collected. The four (4)
+different variables include: hits, misses, correct rejections and false alarms.  
+One data visualization method is performed by using a Receiving Operator
+Characteristics Curve or ROC. What the ROC does is graph the probability of a hits
+vs the probability of a false alarm. 
 
 ![ROC-curve](/img/ROC-curve.png)
 
