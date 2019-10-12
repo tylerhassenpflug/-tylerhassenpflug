@@ -24,7 +24,8 @@ time will tell. Could this also happen for people using exoskeletons to help
 them perform other tasks? How long until we end up looking like the humans from
 Wall-E?
 
-![Wall-e](/img/Wall-e.jpg)  ![Wall-E_Humans](/img/Wall-E_Humans.jpg)
+![Wall-e](/img/Wall-e.jpg)  
+![Wall-E_Humans](/img/Wall-E_Humans.jpg)
 
 Russia is currently developing a human exoskeletons to be used by soldiers on
 the battlefield.  These suits look like something out of the movie Iron Man.
