@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog 5 - Big Data"
+date:   2019-09-12 09:03:57 -0400
+categories: ENP-0162
+comments: true
+---
+Big data ties into so much of our lives on a daily basis.  A majority of companies, especially tech companies, are collecting large amounts of data on its users.  For example, every morning when I get in my car, google maps and Waze tell me exactly how long it will take to get from my current location to the parking garage at Tufts in Medford or my apple watch will send me a message around 4 pm telling me I'm usually further along with my exercise for the day on days I skip the gym.  These companies track our movements every minute of the day.  They know where we are, what we are doing, how much we are moving and if we are asleep or awake.  This amount of data collection is terrifying, especially if this information is being misused.  
+
+Facebook has been under fire in recent years for not properly handling the data of its users.  In the 2016 US presidential election, Donald Trumps advisors hired a data analytics firm "Cambridge Analytica" to help them win the election.  Cambridge Analytica used user data collected from Facebook to help them determine which people had not yet made up their mind on who they were going to vote.  They then used this information to directly target those people with adds for Donald Trump and smear propaganda against his opponent Hillary Clinton.  They then took this one step further by heavily targeting those in swing states.  By doing so, they were successfully able to use Facebook user data to swing the election.  Even though Donald Trump ultimately lost the popular of the people, he won in key swing states and received the majority vote from the electoral college.  Cambridge Analytica used a very similar approach to swing the vote for the UK brexit vote in 2017, which has proven to be wildly unsuccessful.
+
+The the large sets of data can also be used to help every day users.  For example, data can be used by biotech and health-tech companies to help better the health of its patients or by companies like Spotify and Netflix to create better content for each of its users.  These are examples of how user data can be used responsibly by companies.  Its like Uncle Ben said in Spider Man, "with great power comes great responsibility."
