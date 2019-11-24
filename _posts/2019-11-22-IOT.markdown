@@ -5,9 +5,13 @@ date:   2019-09-12 09:03:57 -0400
 categories: ENP-0162
 comments: true
 ---
+![IoT](/img/IoT.jpg)
+
 The Internet of things (IOT) has grown significantly in the past few years. IOT has expanded into nearly every industry from health and fitness to automobiles and smart homes.  
 
-Smart homes now can aid in nearly every aspect of our with devices such as smart bulbs, thermostats, security cameras, baby monitors, smart tv's and refrigerators. Smart home devices can be very beneficial by helping us to better control our heating or assisted living for the elderly. However, IoT is not safe and our data is not safe until it is secure. 
+Smart homes now can aid in nearly every aspect of our with devices such as smart bulbs, thermostats, security cameras, baby monitors, smart tv's and refrigerators. Smart home devices can be very beneficial by helping us to better control our heating or assisted living for the elderly. However, IoT is not safe and our data is not safe until it is secure.
+
+![Smart_Home](/img/Smart-Home.jpg)
 
 Smart devices are extremely vulnerable and we are seeing huge issues with people's data being hacked and stolen or being sold for a project by the companies that were collecting our data.
 
@@ -19,9 +23,9 @@ The important question is, how can consumers of IoT project themselves? IoT user
 
 2. Put IoT on a separate network at home. There are several "how to" instructions on the internet that will you walk through how to set up your own at home network.
 
+3. Don't buy IoT devices unless the vendors prove its secure. As consumers we can make a difference because we aren't purchasing the devices it will force the manufacturers hand in creating secure devices.
+
 Here are some links that could help:
 https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c
 https://us.norton.com/internetsecurity-iot-smart-home-security-core.html
 https://www.choice.com.au/electronics-and-technology/gadgets/tech-gadgets/articles/how-to-secure-your-smart-home-and-internet-of-things-devices
-
-3. Don't buy IoT devices unless the vendors prove its secure. As consumers we can make a difference because we aren't purchasing the devices it will force the manufacturers hand in creating secure devices.
