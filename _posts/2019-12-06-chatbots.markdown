@@ -15,7 +15,7 @@ help people that are lonely, dealing with depression or stress. This truly raise
 the question about the growth of intimate relationships between humans and
 machines. There are already some AI chatbots being developed to mimic and respond to human emotion.  These bots will be available 24/7 for anyone that needs someone to chat with about issues they are having.  
 
-![Smart_Home](/img/chatbot.jpg)
+![Chatbots](/img/chatbot.jpg)
 
 These emotionally "in-tune" chat bots can be used for all kinds of things.  For example, imagine you get home 3 hours after you normally do and you had a very stressful day at work and Amazon Alexa greets you by saying "You're home late. Stressful day at work? Should I place an order for your favorite meal from the restaurant down the street. Also, I can start playing episodes from your favorite show so you can relax until your food arrives."
 
