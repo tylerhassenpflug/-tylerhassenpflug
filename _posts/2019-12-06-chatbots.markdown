@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Blog 9 - Chatbots"
+date:   2019-09-12 09:03:57 -0400
+categories: ENP-0162
+comments: true
+---
+
+The use of chatbots has changed significantly over the past couples years.  
+Chatbots are being used across multiple industries for a variety of purposes.
+The space where chatbots and AI are being used to really push the limits of
+ethics and human/machine relationships is where chatbots are becoming a
+replacement for emotional relationships. Chatbots using AI are being created to
+help people that are lonely, dealing with depression or stress. This truly raises
+the question about the growth of intimate relationships between humans and
+machines.
