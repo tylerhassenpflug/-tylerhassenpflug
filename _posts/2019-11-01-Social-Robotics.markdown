@@ -11,4 +11,6 @@ Social robots provide an exciting  and somewhat terrifying glimpse into the futu
 
 One area in which social robot research is focused on is assisting the world's growing elderly population. For example, researchers in Japan developed PARO Therapeutic Robot, which is designed to look like a baby seal and provide stress reduction for the elderly suffering from Alzheimers.  There are 78.8 million people in the baby boomer generation in the US alone.  They account for 25% of the overall US population.
 
-Social Robots are not just a thing of future, they are already here and thriving. In 2018, worldwide sales of consumer robots reached an all time high of $5.6 billion!  The market for social robots world wide is expected reach $19 billion by the end of 2025. The future of social robotics is very exciting. 
+![Smart_Home](/img/Social-Robots.jpg)
+
+Social Robots are not just a thing of future, they are already here and thriving. In 2018, worldwide sales of consumer robots reached an all time high of $5.6 billion!  The market for social robots world wide is expected reach $19 billion by the end of 2025. The future of social robotics is very exciting.
