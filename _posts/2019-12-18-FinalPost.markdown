@@ -9,34 +9,40 @@ comments: true
 This. class. kicks. @ss!
 
 I've been fascinated by new and innovative technologies for as long as I can
-remember.  Having decided to make career change from the biotech industry
-into the tech industry as a product manager, this course exceeded all
-expectations in helping to broaden my knowledge of current and future technologies.
-Best all, through this course I was able to meet and work with other students and
-professionals that share my passion for technology.
+remember.  Having recently decided to make career change after spending nine years
+serving in both technical and management level roles the biotech industry, into the
+tech industry as a product manager, this course exceeded all expectations in helping
+to broaden my knowledge of current and future technologies.  Best all, through this
+course I was able to meet and work with other students and professionals that share
+my passion for technology.  Overall, this course was the perfect level of exposure
+to several topics. There were a couple topics I wish we had spent a bit less time
+on and couple that I wish we had dove a bit deeper into. I will discuss each of
+these throughout this blog post. 
 
-As I wrap up my semester in a class titled Human Machine Systems Design, I
-thought it might be nice to highlight some key takeaways. This class emphasized
-the importance of human centered design across several fields of technology.
-We studied and discussed the design challenges associated with designing complex
-systems at the intersection of humans and machines. We covered topics of systems
-automation, signal detection theory, internet of things, future humans, chatbots
-and social robotics to name a few.  We dove into deep discussion and group
-projects to investigate humans and machines working together and which tasks
+This class emphasized the importance of human centered design across several fields
+of technology. We studied and discussed the design challenges associated with
+designing complex systems at the intersection of humans and machines. We covered
+topics of systems automation, signal detection theory, internet of things, future
+humans, chatbots and social robotics to name a few.  We dove into deep discussion
+and group projects to investigate humans and machines working together and which tasks
 might be best delegated to people vs. machines, and problem of how to instill
 user trust. Each topic explored was additionally framed in the context of
 designing for not just the user defined in the “now”, but also for the potential
 user of the future both near and far.
 
-The Internet of things (IOT) has grown significantly in the past few years. IOT has
+One topic I find particularly fascinating and aim to pursue a career in is the
+Internet of things (IOT).  IOT has grown significantly in the past few years. IOT has
 expanded into nearly every industry from health and fitness to automobiles and
 smart homes.  Smart homes now can aid in nearly every aspect of our with devices
 such as smart bulbs, thermostats, security cameras, baby monitors, smart tv's and
 refrigerators. Smart home devices can be very beneficial by helping us to better
 control our heating or assisted living for the elderly. However, IoT is not safe
-and our data is not safe until it is secure.
+and our data is not safe until it is secure.  There are several amazing products
+in this industry with lots of room for growth on improvements and development
+of new products.
 
-An understanding of signal detection and information theory is crucial when
+Another topic I really enjoyed learning about was signal detection theory. An
+understanding of signal detection and information theory is crucial when
 determining how humans should interact with machines. Signal detection theory is
 a great framework to utilize when considering the impact of a “hit” “miss” “false
 A machine system can be altered to adjust the sensitivity to each of the above
@@ -57,7 +63,8 @@ development and use of exoskeletons. Two risks that concern me the most are the
 use of exoskeletons by military or terrorist groups and if there are long term health
 effects from using exoskeletons such as muscular or bone atrophy.
 
-Big data ties into so much of our lives on a daily basis.  A majority of companies,
+Big data ties into so much of our lives on a daily basis and plays a part in
+several of the other topics discussed in this course.  A majority of companies,
 especially tech companies, are collecting large amounts of data on its users.  
 For example, every morning when I get in my car, google maps and Waze tell me
 exactly how long it will take to get from my current location to the parking
@@ -70,19 +77,20 @@ information is being misused.
 
 ![automation](/img/automation.jpeg)
 
+Social robots provide an exciting and somewhat terrifying glimpse into the future.  
 A social robot is defined as "an autonomous robot that interacts and communicates
 with humans or other autonomous physical agents by following social behaviors and
-rules attached to its role. Like other robots, a social robot is physically embodied."
-
-Social robots provide an exciting and somewhat terrifying glimpse into the future.  
-These robots will be able to assist around the home with every day chores or help
+rules attached to its role. Like other robots, a social robot is physically embodied.
+"These robots will be able to assist around the home with every day chores or help
 in industries such as aerospace and medicine.  Social robots will be able to serve
 across several functions both in personal life and industry. The future of social
 robots is envisioned as a robots using artificial intelligence to interact with
 humans.Social robotics have exciting potential for implementation in various settings as
 they are able to autonomously interact and communicate with humans. This impressive
 capacity is enabled by a few things. Most broadly, social robots are automated
-machines. Automation simply means the machine is able to complete its set of tasks
+machines.
+
+Automation simply means the machine is able to complete its set of tasks
 with minimal human assistance. There are different levels of automation, and
 subsequently different levels of human assistance necessary. Some of the
 technologies that help human machine systems become more autonomous include the
