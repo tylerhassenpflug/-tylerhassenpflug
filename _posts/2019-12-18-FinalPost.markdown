@@ -28,22 +28,6 @@ user trust. Each topic explored was additionally framed in the context of
 designing for not just the user defined in the “now”, but also for the potential
 user of the future both near and far.
 
-In this class, we learned about a few key frameworks to consider when beginning
-the design process. One of the biggest decision points when designing a human
-machine system is the determination of which tasks will best be completed by the
-machine, and which ones are best performed by a human. When it comes to
-automation, machines have a very specific skillset; they’re excellent at
-completing repetitive physical and computing tasks efficiently, great at
-collecting data, and finally processing large amounts of data. Humans on the
-other hand, get overwhelmed by large amounts of tasks or computation and perform
-poorly on repetitive manual tasks, but excel in making complex decisions,
-determining between minute differences, considering ethical issues and
-implications of decisions, and completing tasks that require fine motor skills.
-With this in mind, it is useful to complete a thorough task analysis of the
-task at hand of which you are trying to partially automate with a human-machine
-system. This helps break down the required tasks to best determine the most
-apt operator at the given stage.
-
 The Internet of things (IOT) has grown significantly in the past few years. IOT has
 expanded into nearly every industry from health and fitness to automobiles and
 smart homes.  Smart homes now can aid in nearly every aspect of our with devices
