@@ -8,7 +8,8 @@ comments: true
 GPS technologies are helping innovate and change many things for the better. Apps
 such as Waze, Google Maps, Trip Advisor and Yelp are helping people save time and
 discover new things every day.  Sadly and also terrifying, GPS technologies are also
-being used detrimental ways.  I’d like to draw your attention to a much less
+being used detrimental ways.  GPS and related technology has brought with it many
+positives, but also some downsides.I’d like to draw your attention to a much less
 glamorous side of GPS: location tracking. Location tracking is being used by the
 government, private corporations and hackers to track our locations and in some cases
 aiming to steal our identities or rob our homes.
@@ -18,3 +19,14 @@ about how peoples phones and locations are being hacked to see where they are
 and what they're doing at all times. Hackers are using this method to see when we
 are away from our homes or to hack into our devices.  Governments and companies
 are using this to invade our privacies "for our own protection."
+
+GPS devices can be used to stalk people without their knowledge. A device can be
+placed in a car, for instance, so that the victim's location can be tracked.
+This method can also be used for criminal purposes. These tracking devices are
+easy to obtain.  These technologies are not only abused by the government but by
+commercial organizations as well.
+
+When GPS is combined with internet technology, such as social media or mobile
+phone apps, it can become easy for commercial organizations to track someone's
+movements and exploit this information to gather data on a person's shopping
+habits, or target them with advertising based on their location.
