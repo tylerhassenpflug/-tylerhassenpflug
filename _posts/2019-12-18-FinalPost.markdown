@@ -60,6 +60,8 @@ detection conditions, thereby making some more likely and others less likely.
 Adjusting these can be extremely important in cases where a false alarm or miss
 has grave consequences.
 
+![IoT](/img/IoT.png)
+
 The concept of future humans and exactly how robots will be able to help daily
 human activities is not as far in the future as many may think. The concept of
 exoskeletons is both fascinating and terrifying.  Exoskeletons are
@@ -81,6 +83,8 @@ the gym.  These companies track our movements every minute of the day.  They kno
 where we are, what we are doing, how much we are moving and if we are asleep or
 awake.  This amount of data collection is terrifying, especially if this
 information is being misused.  
+
+![automation](/img/automation.jpeg)
 
 Social robotics have exciting potential for implementation in various settings as
 they are able to autonomously interact and communicate with humans. This impressive
