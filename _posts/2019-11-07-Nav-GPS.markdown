@@ -5,3 +5,16 @@ date:   2019-09-12 09:03:57 -0400
 categories: ENP-0162
 comments: true
 ---
+Does it surprise you that there are over 3,500 satellites in orbit at this very moment? What if I told you that less than a third of those are active? We are quickly reaching a critical point in time where the demand for satellite data and usage demands more and more satellites, however the earth’s orbit is quickly approaching capacity.
+
+Each satellite sent out to space today lasts an average of 5-8 years before needing replacement. So where does this no-longer useful satellite go? Nowhere. Each and every dead satellite ever sent into space is STILL there; and actively damaging the ones that do still work as they spin endlessly in orbit. This cycle of solution turning to trash turning to destruction will continue indefinitely until we do something.
+
+Luckily, there are some pretty cool solutions out there - most of which, have yet to stand the true test of space.
+
+Reuse Reduce Recycle. You know the saying - let’s apply it to space debris! One solution explored by DARPA is to design a smart-satellite capable of essentially building itself out of existing materials and components already in earth’s orbit.
+
+Take it to the dump: space edition.Another solution proposed by DARPA is to simply encapsulate all space debris in what is essentially just a big net floating in space. This solution would simply help prevent newer satellites from colliding with the old ones by way of making the debris location more predictable and consolidated.
+
+Don’t knock it till you try it.Russia has spent it’s recent years developing a space pod with enough energy stored to literally knock debris out of orbit; sending it sailing back down to the earth’s atmosphere. Hopefully it would simply burn up in the atmosphere or would otherwise simply plummet into the Ocean (another problem of it’s own).
+
+Believe it or not, other solutions include giant lasers, space balloons, and “self destructing janitors”. Check out this article to learn more! 
