@@ -86,7 +86,16 @@ information is being misused.
 
 ![automation](/img/automation.jpeg)
 
-Social robotics have exciting potential for implementation in various settings as
+A social robot is defined as "an autonomous robot that interacts and communicates
+with humans or other autonomous physical agents by following social behaviors and
+rules attached to its role. Like other robots, a social robot is physically embodied."
+
+Social robots provide an exciting and somewhat terrifying glimpse into the future.  
+These robots will be able to assist around the home with every day chores or help
+in industries such as aerospace and medicine.  Social robots will be able to serve
+across several functions both in personal life and industry. The future of social
+robots is envisioned as a robots using artificial intelligence to interact with
+humans.Social robotics have exciting potential for implementation in various settings as
 they are able to autonomously interact and communicate with humans. This impressive
 capacity is enabled by a few things. Most broadly, social robots are automated
 machines. Automation simply means the machine is able to complete its set of tasks
