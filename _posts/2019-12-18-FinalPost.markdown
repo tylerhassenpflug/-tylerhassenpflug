@@ -17,7 +17,7 @@ course I was able to meet and work with other students and professionals that sh
 my passion for technology.  Overall, this course was the perfect level of exposure
 to several topics. There were a couple topics I wish we had spent a bit less time
 on and couple that I wish we had dove a bit deeper into. I will discuss each of
-these throughout this blog post. 
+these throughout this blog post.
 
 This class emphasized the importance of human centered design across several fields
 of technology. We studied and discussed the design challenges associated with
@@ -25,21 +25,21 @@ designing complex systems at the intersection of humans and machines. We covered
 topics of systems automation, signal detection theory, internet of things, future
 humans, chatbots and social robotics to name a few.  We dove into deep discussion
 and group projects to investigate humans and machines working together and which tasks
-might be best delegated to people vs. machines, and problem of how to instill
+might be best delegated to people vs. machines, and the problem of how to instill
 user trust. Each topic explored was additionally framed in the context of
 designing for not just the user defined in the “now”, but also for the potential
 user of the future both near and far.
 
 One topic I find particularly fascinating and aim to pursue a career in is the
-Internet of things (IOT).  IOT has grown significantly in the past few years. IOT has
-expanded into nearly every industry from health and fitness to automobiles and
-smart homes.  Smart homes now can aid in nearly every aspect of our with devices
-such as smart bulbs, thermostats, security cameras, baby monitors, smart tv's and
-refrigerators. Smart home devices can be very beneficial by helping us to better
-control our heating or assisted living for the elderly. However, IoT is not safe
-and our data is not safe until it is secure.  There are several amazing products
-in this industry with lots of room for growth on improvements and development
-of new products.
+Internet of things (IOT), more specifically wearable devices.  IOT has grown
+significantly in the past few years. IOT has expanded into nearly every industry
+from health and fitness to automobiles and smart homes.  Smart homes now can aid
+in nearly every aspect of our with devices such as smart bulbs, thermostats,
+security cameras, baby monitors, smart tv's and refrigerators. Smart home devices
+can be very beneficial by helping us to better control our heating or assisted
+living for the elderly. However, IoT is not safe and our data is not safe until
+it is secure.  There are several amazing products in this industry with lots of
+room for growth on improvements and development of new products.
 
 Another topic I really enjoyed learning about was signal detection theory. An
 understanding of signal detection and information theory is crucial when
@@ -80,27 +80,32 @@ information is being misused.
 Social robots provide an exciting and somewhat terrifying glimpse into the future.  
 A social robot is defined as "an autonomous robot that interacts and communicates
 with humans or other autonomous physical agents by following social behaviors and
-rules attached to its role. Like other robots, a social robot is physically embodied.
-"These robots will be able to assist around the home with every day chores or help
-in industries such as aerospace and medicine.  Social robots will be able to serve
-across several functions both in personal life and industry. The future of social
-robots is envisioned as a robots using artificial intelligence to interact with
-humans.Social robotics have exciting potential for implementation in various settings as
-they are able to autonomously interact and communicate with humans. This impressive
-capacity is enabled by a few things. Most broadly, social robots are automated
-machines.
+rules attached to its role. Like other robots, a social robot is physically embodied."
+These robots will be able to assist around the home with every day chores or help
+in industries such as aerospace and medicine.  Across the industries studied in this
+course, several social robots are already being developed to help in certain industries.
+For example, robotic flight attendants and robotic bar tenders are already becoming
+tested by companies for use.  These robots will be able to serve both in personal
+every day life and within industry functions. The future of social robots is
+envisioned as a robots using machine learning artificial intelligence to interact with
+humans.  Social robotics have exciting potential for implementation in various settings as
+they are able to learn from each interaction as well as autonomously interact and
+communicate with humans. This impressive capacity is enabled by a few things.
+Most broadly, social robots are automated machines.
 
 Automation simply means the machine is able to complete its set of tasks
-with minimal human assistance. There are different levels of automation, and
-subsequently different levels of human assistance necessary. Some of the
+with minimal human assistance. The level of automation required for AI robotics can
+vary wildly depending on what functionality or interaction is required. Some of the
 technologies that help human machine systems become more autonomous include the
-use of Big Data, artificial intelligence, and machine learning. Each of these
-topics is further discussed in other blogs of mine so I won’t go too much in depth
-here. My key takeaways here however, are that these tools are extremely powerful.
-This power is both exciting when considering the potential doors it opens for new
-applications of human machine systems, but should be considered as being equally
-terrifying, as a failure to consider the ethical and societal implications of
-said implementation could result in grave consequences.
+use of Big Data, artificial intelligence, and machine learning. One topic that applies
+to each of this is cyber security.  As technologies advance, so do the skills of
+hackers.  It seems that nearly on a weekly basis there is some story on the news 
+about a companies data being hacked to expose the information of thousands, if not
+millions of people.  What happens if one these hackers decides to hack into an
+autonomous vehicle while someone is driving down the road or hack into a robotic
+flight attendant in the middle of a flight? These new technologies are equal parts
+exciting and terrifying.  In the words of Uncle Ben from Spiderman "with great power
+comes great responsibility!"
 
 I am excited to see how each of the topics studied in this class will grow and
 change over time.  I can only hope to be part of the innovation shaping the way
